@@ -20,5 +20,7 @@
 | Задание 13 | + |
 | Задание 14 | + |
 | Задание 15 | + |
+2.1 Установка
+![Установка](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-1/pic/2.1%20Установка.png)
 2.2 Настройка
 ![Установка](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-1/pic/2.2%20Настройка.png)
