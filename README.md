@@ -44,3 +44,9 @@
 ![Возвращение файла к предыдущему(определённому) состоянию](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-1/pic/2.11%20Возвращение%20файла%20к%20предыдущему%20состоянию.png)
 2.12 Возвращение к пердыдущему коммиту
 ![Возвращение к пердыдущему коммиту](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-1/pic/2.12%20Возвращение%20к%20предыдущему%20коммиту.png)
+2.13 Исправление коммита
+![Исправление коммита](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-1/pic/2.13%20Исправление%20коммита.png)
+2.14 Разрешение конфликтов при слиянии
+![Разрешение конфликтов при слиянии](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-1/pic/2.14%20Разрешение%20конфликтов%20при%20слиянии.png)
+2.15 Настройка gitignore
+![Настройка gitignore](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-1/pic/2.15%20Настройка%20.gitignore.png)
