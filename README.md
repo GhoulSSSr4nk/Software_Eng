@@ -28,7 +28,7 @@ print(1.23)
 ```
   ### Результат
   
- ![Снимок экрана 2023-09-19 031155](https://github.com/Mikhail867/Software_Engineering/assets/144737787/01ea75e9-6d86-4cb7-806d-b0a279f13add)
+ ![Снимок экрана 2023-09-19 031155](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab1.png)
  
 ## Краткий вывод:
 
@@ -51,7 +51,7 @@ print(3 + 7.04 + 1 + 2.33)
 
 ### Результат
 
-![2](https://github.com/Mikhail867/Software_Engineering/assets/144737787/ac4c7fe6-7a02-477c-90d7-c96249a02b3b)
+![2](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab2.png)
 
 ## Краткий вывод:
 
@@ -79,7 +79,7 @@ print(result_string)
 ```
 ### Результат
 
-![3](https://github.com/Mikhail867/Software_Engineering/assets/144737787/3216ea9a-c110-4a71-8e92-2af0007924be)
+![3](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab3.png)
 
 ## Краткий вывод:
 print("Привет, Мир!"): В первой строке программа выводит на экран фразу "Привет, Мир!" в виде обычной строки.
@@ -114,7 +114,7 @@ print(str(three))
 ```
 ### Результат
 
-![4](https://github.com/Mikhail867/Software_Engineering/assets/144737787/a1f54287-cd07-47cd-a879-bec4955abfad)
+![4](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab4.png)
 
 
 ## Краткий вывод:
@@ -142,7 +142,7 @@ print(one,two,three)
 ```
 ### Результат
 
-![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/92c277af-d2f5-4423-8bfe-8c630fc17364)
+![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab5.png)
 
 
 ## Краткий вывод:
@@ -168,7 +168,7 @@ print("Нахождение остатка от деления:", a % b)
 ```
 ### Результат
 
-![6](https://github.com/Mikhail867/Software_Engineering/assets/144737787/7d21e4e9-a3d8-49a1-aa73-23e27479fed5)
+![6](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab6.png)
 
 ## Краткий вывод:
 a = 10: Здесь объявляется переменная a и ей присваивается значение 10.
@@ -194,7 +194,7 @@ print(line * 6)
 ```
 ### Результат
 
-![7](https://github.com/Mikhail867/Software_Engineering/assets/144737787/be9e922e-1ca3-475b-b9a3-d053e926e6e5)
+![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab7.png)
 
 
 ## Краткий вывод:
@@ -212,7 +212,7 @@ print(sentence.count("o"))
 
 ```
 ### Результат
-![8](https://github.com/Mikhail867/Software_Engineering/assets/144737787/35217545-a787-49e6-891c-59af7b5b0533)
+![8](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab8.png)
 
 
 ## Краткий вывод:
@@ -229,7 +229,7 @@ print(sentence.count("o")): Эта строка кода использует м
 print("Hello\nWorld")
 ```
 ### Результат
-![9](https://github.com/Mikhail867/Software_Engineering/assets/144737787/59a45988-f04b-4fd0-93fa-e09b482613ba)
+![9](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab9.png)
 
 
 ## Краткий вывод:
@@ -249,7 +249,7 @@ print(sentence[:5])
 
 ```
 ### Результат
-![10](https://github.com/Mikhail867/Software_Engineering/assets/144737787/f46f21b5-2de5-4da0-8218-c81c2d66907a)
+![10](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/lab10.png)
 
 
 ## Краткий вывод:
