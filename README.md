@@ -272,7 +272,7 @@ print(sentence[:5]): Эта строка кода использует срез 
 
 ### Результат
 
-![11](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/image.png)
+![11](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/1.png)
 
 ## Краткий вывод:
  print(0 == 1) сравнивает два значения и возвращает ==, если они равны, и True, если они не равны.False
@@ -287,7 +287,7 @@ print(a, b, c)
 
 ### Результат
 
-![12](https://github.com/Mikhail867/Software_Engineering/assets/144737787/4f3607d2-0a01-4456-a8c1-88776dfa9a6f)
+![12](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/2.png)
 
 ## Краткий вывод:
 В первой строке кода происходит присвоение значений переменным a, b, и c. Во второй строке кода с помощью функции print() выводятся значения этих переменных через пробел.
@@ -303,7 +303,7 @@ two = int(input("two:"))
 
 ### Результат
 
-![13](https://github.com/Mikhail867/Software_Engineering/assets/144737787/2e44c912-b70f-43f4-85d1-7d25b13a2eef)
+![13](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/3.png)
 
 ## Краткий вывод:
 
@@ -324,7 +324,7 @@ print(string)
 
 ### Результат
 
-![14](https://github.com/Mikhail867/Software_Engineering/assets/144737787/5f71120c-41a4-4c8f-afcc-3721b3a38d4f)
+![14](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/4.png)
 
 ## Краткий вывод:
 
@@ -347,7 +347,7 @@ print(f"Сегодня {day} {month} {year}.", end=" Всего хорошего
 
 ### Результат
 
-![15](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b6b0dfe0-4f56-4be3-95fc-ec2d2ca81778)
+![15](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/5.png)
 
 ## Краткий вывод:
 
@@ -375,7 +375,7 @@ print(sentence.replace(' ', ' my '))
 
 ### Результат
 
-![16](https://github.com/Mikhail867/Software_Engineering/assets/144737787/8484c823-dab1-4953-99db-7e0340aba586)
+![16](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/6.png)
 
 ## Краткий вывод:
 
@@ -396,7 +396,7 @@ print(len(sentence))
 
 ### Результат
 
-![17](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b934f345-212b-4990-bac3-e0b7da454528)
+![17](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/7.png)
 
 ## Краткий вывод:
 
@@ -417,7 +417,7 @@ print(sentence.lower())
 
 ### Результат
 
-![18](https://github.com/Mikhail867/Software_Engineering/assets/144737787/8b8f32bc-bc2e-4237-a38a-cd1b440e17ec)
+![18](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/8.png)
 
 ## Краткий вывод:
 
@@ -425,45 +425,45 @@ print(sentence.lower())
 
 ## Самостоятельная работа №9
 
- Найти среднее арифметическое двух чисел
+ Найти произведение двух чисел
  
  ```python
 num1 = float(input("Введите первое число: "))
 num2 = float(input("Введите второе число: "))
 
 
-res = (num1 + num2) / 2
+res = num1 * num2
 
 
-print(f"Среднее арифметическое чисел {num1} и {num2} равно {res}")
+print(f"Произведение чисел {num1} и {num2} равно {res}")
 
 ```
 
 ### Результат
 
-![19](https://github.com/Mikhail867/Software_Engineering/assets/144737787/d46dda84-406e-438a-9656-1c550349b335)
+![19](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/9.png)
 
 ## Краткий вывод:
-Эта программа позволяет пользователю ввести два числа, затем находит и выводит их среднее арифметическое значение.
+Эта программа позволяет пользователю ввести два числа, затем находит и выводит их произведение.
 
 ## Самостоятельная работа №10
-В предложении "Пока Мир" замените слово "Пока" на "Привет" и выведите полученное предложение в одной строке.
+В предложении "Всем ку!" замените слово "ку" на "привет" и выведите полученное предложение в одной строке.
 
  ```python
-sentence = "Пока мир"
+sentence = "Всем ку!"
 
 
-print(sentence.replace("Пока", "Привет"))
+print(sentence.replace("ку", "привет"))
 
 
 ```
 
 ### Результат
-![20](https://github.com/Mikhail867/Software_Engineering/assets/144737787/bfaa1ce8-f558-4815-910e-95104279ee16)
+![20](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-2/Pic/10.png)
 
 
 ## Краткий вывод:
-Эта программа создает строку sentence, затем использует метод replace() для замены слова "Пока" на "Привет". Результат выводится в одной строке.
+Эта программа создает строку sentence, затем использует метод replace() для замены слова "ку" на "привет". Результат выводится в одной строке.
 
 # Общий вывод 
 
