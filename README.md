@@ -27,7 +27,7 @@ if __name__ =="__main__":
     main()
 ```
   ### Результат
-  ![1](https://github.com/Mikhail867/Software_Engineering/assets/144737787/a9cf8add-f429-496c-b6d0-115c65824997)
+  ![1](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%201.png)
 
  
 ## Краткий вывод:
@@ -50,7 +50,7 @@ if __name__ =="__main__":
     print(main())
 ```
   ### Результат
-  ![2](https://github.com/Mikhail867/Software_Engineering/assets/144737787/33df444f-4c00-4809-9330-75fd813b69fc)
+  ![2](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%202.png)
 
  
 ## Краткий вывод:
@@ -77,7 +77,7 @@ for i in range(5):
     print(answer)
 ```
   ### Результат
-  ![3](https://github.com/Mikhail867/Software_Engineering/assets/144737787/3d467d6c-f7b1-46e4-8fc5-7ba4fa159d4e)
+  ![3](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%203.png)
 
  
 ## Краткий вывод:
@@ -112,7 +112,7 @@ if __name__ =="__main__":
     print(f"\nresult={result}")
 ```
   ### Результат
-  ![4](https://github.com/Mikhail867/Software_Engineering/assets/144737787/2cbf59d3-a5e6-432c-8931-9f3e92324623)
+  ![4](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%204.png)
 
  
 ## Краткий вывод:
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     main(**{"x": [1,2,3], "y":[3,3,0]})
 ```
   ### Результат
-  ![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b99bf24a-40a1-441f-b9de-7002a095bc02)
+  ![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%205.png)
 
 
 ## Краткий вывод:
@@ -191,7 +191,7 @@ if __name__ == '__main__':
     main(x=[1,2,3], y=[3,3,0])
 ```
   ### Результат
-  ![6](https://github.com/Mikhail867/Software_Engineering/assets/144737787/d9c5e02b-be73-4f1c-b15a-c322ac9fab9e)
+  ![6](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%206.png)
 
  
 ## Краткий вывод:
@@ -221,7 +221,7 @@ def say_hello():
     print('Hello studends')
 ```
   ### Результат
-  ![7](https://github.com/Mikhail867/Software_Engineering/assets/144737787/e51c78e5-4266-4c3b-bf89-b40d6c849bcb)
+  ![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%207.png)
 
  
 ## Краткий вывод:
@@ -247,7 +247,7 @@ if __name__=='__main__':
 
 ```
   ### Результат
-  ![8](https://github.com/Mikhail867/Software_Engineering/assets/144737787/45557ffd-6ea9-4c72-a80e-3e129853dcd8)
+  ![8](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%208.png)
 
  
 ## Краткий вывод:
@@ -291,7 +291,7 @@ if __name__== "__main__":
 
 ```
   ### Результат
-  ![9](https://github.com/Mikhail867/Software_Engineering/assets/144737787/d814c6be-deb4-4a4f-81c7-c65b2f731006)
+  ![9](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%209.png)
 
  
 ## Краткий вывод:
@@ -337,7 +337,7 @@ elif figure == "2":
 print(f"Площадь {result}")
 ```
   ### Результат
-  ![10](https://github.com/Mikhail867/Software_Engineering/assets/144737787/d3017b47-07be-4bd7-bbbf-f0862d4f843b)
+  ![10](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/lab%2010.png)
 
  
 ## Краткий вывод:
@@ -373,7 +373,7 @@ time_costs = datetime.now() - start_time: Вычисление времени в
 print(f"Время выполнения программы - {time_costs}"): Вывод времени выполнения.
 ```
   ### Результат
-  ![11](https://github.com/Mikhail867/Software_Engineering/assets/144737787/7b4395ba-3dda-4a20-8f32-1aad786ebfd7)
+  ![11](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/sam%201.png)
 
  
 ## Краткий вывод:
@@ -405,7 +405,7 @@ if __name__ == "__main__":
     play_dice()
 ```
   ### Результат
-  ![12](https://github.com/Mikhail867/Software_Engineering/assets/144737787/15ac2d77-13d2-48d2-8a60-f1d044abf994)
+  ![12](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/sam%202.png)
 
  
 ## Краткий вывод:
@@ -429,7 +429,7 @@ if __name__ == "__main__":
 
 ```
   ### Результат
-  ![13](https://github.com/Mikhail867/Software_Engineering/assets/144737787/a8a0b29c-1614-48c5-8819-7243353be23b)
+  ![13](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/sam%203.png)
 
  
 ## Краткий вывод:
@@ -459,7 +459,7 @@ if __name__ == "__main__":
 
 ```
   ### Результат
-  ![14](https://github.com/Mikhail867/Software_Engineering/assets/144737787/ac266acd-7b9d-4253-8510-dd69c11242c5)
+  ![14](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/sam%204.png)
 
  
 ## Краткий вывод:
@@ -508,7 +508,7 @@ if __name__ == "__main__":
 
 ```
   ### Результат
-  ![15](https://github.com/Mikhail867/Software_Engineering/assets/144737787/7d5e760f-0b1f-4630-9933-167e725124e4)
+  ![15](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-4/pic/sam%205.png)
 
  
 ## Краткий вывод:
