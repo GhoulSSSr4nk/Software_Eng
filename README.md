@@ -26,7 +26,7 @@ set_2={'Red','Green','Blue','Red'}
 print(set_1 - set_2 )
 ```
   ### Результат
-  ![1](https://github.com/Mikhail867/Software_Engineering/assets/144737787/a9b16ee8-7edf-40b5-b984-eb623c70cc3d)
+  ![1](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%201.png)
 
  
 ## Краткий вывод:
@@ -53,7 +53,7 @@ print(a)
 
 ```
   ### Результат
-  ![2](https://github.com/Mikhail867/Software_Engineering/assets/144737787/f9eadd41-d54c-4151-9474-b0c369d68c98)
+  ![2](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%202.png)
 
  
 ## Краткий вывод:
@@ -73,7 +73,7 @@ def replace(input_list):
 print(replace([1,2,3,4,5]))
 ```
   ### Результат
-  ![3](https://github.com/Mikhail867/Software_Engineering/assets/144737787/19e83a8a-29b2-4e22-b2d2-45aa3d83c957)
+  ![3](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%203.png)
 
  
 ## Краткий вывод:
@@ -89,7 +89,7 @@ print(a[2:6])
 
 ```
   ### Результат
-  ![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/5e513068-733d-4404-b85d-3ae2632fcd2f)
+  ![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%204.png)
 
  
 ## Краткий вывод:
@@ -107,7 +107,7 @@ print(useless([-12.5,54,77.3,0,-36,98.2,-63,21.7,47,-89.6]))
 print(useless([-25.8,86,12.5,-56,73.2,0,43,-91.5,65.9,-7]))
 ```
   ### Результат
-  ![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/7c3ae0ba-2853-46c6-a905-1979b458e0ff)
+  ![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%205.png)
 
  
 ## Краткий вывод:
@@ -126,7 +126,7 @@ print('Василий -', vasiliy)
 print('Иван -', ivan)
 ```
   ### Результат
-  ![6](https://github.com/Mikhail867/Software_Engineering/assets/144737787/bfc85472-ae36-4b18-b35a-da65cfa6bfc9)
+  ![6](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%206.png)
 
  
 ## Краткий вывод:
@@ -144,7 +144,7 @@ print("Отсортированный список без наименьшого
 ```
  
 # Результат
-  ![7](https://github.com/Mikhail867/Software_Engineering/assets/144737787/0957027a-fd1a-42b5-b326-983d8f84ea4d)
+  ![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%207.png)
 
  
 ## Краткий вывод:
@@ -177,7 +177,7 @@ if __name__ =='__main__':
 
 ```
   ### Результат
-  ![8](https://github.com/Mikhail867/Software_Engineering/assets/144737787/382136c1-1cb0-497b-88f6-14f967bef361)
+  ![8](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%208.png)
 
  
 ## Краткий вывод:
@@ -207,7 +207,7 @@ if __name__ == '__main__':
     superset({90,100}, {3, 5})
 ```
   ### Результат
-  ![9](https://github.com/Mikhail867/Software_Engineering/assets/144737787/19db60d1-3549-4259-b5f7-08a89af01b94)
+  ![9](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%209.png)
 
  
 ## Краткий вывод:
@@ -234,7 +234,7 @@ my_list=[2,5,8,3]
 print(my_list[::-1])
 ```
   ### Результат
-  ![10](https://github.com/Mikhail867/Software_Engineering/assets/144737787/d03336a2-39b5-4c39-97b4-3da92c3ca0ae)
+  ![10](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Lab%2010.png)
 
  
 ## Краткий вывод:
@@ -274,7 +274,7 @@ print("Какой работник посетил ресторан больше 
 
 ```
   ### Результат
-  ![11](https://github.com/Mikhail867/Software_Engineering/assets/144737787/80521e16-94b0-4f92-a5c7-6faebec5687e)
+  ![11](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Sam%201.png)
 
  
 ## Краткий вывод:
@@ -303,7 +303,7 @@ print("Все результаты начиная с 10:", results_from_10)
 
 ```
   ### Результат
-  ![12](https://github.com/Mikhail867/Software_Engineering/assets/144737787/bb24d10d-5632-4a57-990a-2f298fcfb2cd)
+  ![12](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Sam%202.png)
 
  
 ## Краткий вывод:
@@ -341,7 +341,7 @@ print("Площадь треугольника, составленного из 
 
 ```
   ### Результат
-  ![13](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b56a580b-90ee-47ae-b4ae-ec525019ceaf)
+  ![13](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Sam%203.png)
 
  
 ## Краткий вывод:
@@ -381,7 +381,7 @@ print("Обновленный список оценок 3:", updated_grades3)
 
 ```
   ### Результат
-  ![14](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b44f5fb8-c983-4203-b2aa-d9b0dd0ee115)
+  ![14](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Sam%204.png)
 
  
 ## Краткий вывод:
@@ -417,7 +417,7 @@ print(result_3)
 
 ```
   ### Результат
-  ![15](https://github.com/Mikhail867/Software_Engineering/assets/144737787/ce4d916e-6a84-40d6-b26f-a2e681bfa409)
+  ![15](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-5/pic/Sam%205.png)
 
  
 ## Краткий вывод:
