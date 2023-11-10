@@ -40,7 +40,7 @@ print(key,access)
 
 ```
   ### Результат
-  ![1](https://github.com/Mikhail867/Software_Engineering/assets/144737787/132c2d26-18fe-4f05-b83f-a3dc320ce7b2)
+  ![1](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Lab%201.png)
 
  
 ## Краткий вывод:
@@ -76,7 +76,7 @@ pprint(my_dict)
 
 ```
   ### Результат
-  ![2](https://github.com/Mikhail867/Software_Engineering/assets/144737787/f5de7f66-67d2-4856-b585-002ae2a48e61)
+  ![2](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Lab%202.png)
 
  
 ## Краткий вывод:
@@ -106,7 +106,7 @@ print(list(result))
 
 ```
   ### Результат
-  ![3](https://github.com/Mikhail867/Software_Engineering/assets/144737787/afa24dc0-be5f-4f68-9681-ab8200492c33)
+  ![3](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Lab%203.png)
 
  
 ## Краткий вывод:
@@ -131,7 +131,7 @@ bob =("Георгий",41,"Yandex")
 personal_info(*bob)
 ```
   ### Результат
-  ![4](https://github.com/Mikhail867/Software_Engineering/assets/144737787/59d0b4d8-fed1-41bf-9835-3d0dd1fa8492)
+  ![4](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Lab%204.png)
 
  
 ## Краткий вывод:
@@ -153,7 +153,7 @@ if __name__ == '__main__':
     print(tuple_sort((5, 5, 2.1, "1", 9)))
 ```
   ### Результат
-  ![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/4602fa2f-cc34-4fbd-b38f-8f4a66e6acf3)
+  ![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Lab%205.png)
 
  
 ## Краткий вывод:
@@ -200,7 +200,7 @@ print("Список:", result_list)
 print("Кортеж:", result_tuple)
 ```
   ### Результат
-  ![6](https://github.com/Mikhail867/Software_Engineering/assets/144737787/55761b52-cb1b-4afc-8618-fd6cddf8fe43)
+  ![6](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Sam%201.png)
 
   
  
@@ -237,7 +237,7 @@ result3 = remove_element_from_tuple(tuple3, 9)
 print(result3)  # Ожидаемый результат: (2, 4, 6, 6, 4, 2)
 ```
   ### Результат
-  ![7](https://github.com/Mikhail867/Software_Engineering/assets/144737787/cb967d2a-79a5-4363-b0cf-e60fcff377e7)
+  ![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Sam%202.png)
 
  
 ## Краткий вывод:
@@ -269,7 +269,7 @@ result_dictionary = count_most_common_digits(numbers_string)
 print(result_dictionary)
 ```
   ### Результат
-  ![8](https://github.com/Mikhail867/Software_Engineering/assets/144737787/6edf873b-a1db-4b16-858b-0be9237c1b56)
+  ![8](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Sam%203.png)
 
  
 ## Краткий вывод:
@@ -314,7 +314,7 @@ print(result3)  # Ожидаемый результат: (8, 5, 1, 2, 9)
 
 ```
   ### Результат
-  ![9](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b07b328a-db9a-4647-817d-ceb166c38526)
+  ![9](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Sam%204.png)
 
  
 ## Краткий вывод:
@@ -350,7 +350,7 @@ print(result3)  # Ожидаемый результат: None
 
 ```
   ### Результат
-  ![10](https://github.com/Mikhail867/Software_Engineering/assets/144737787/2f01fc0b-afd6-4c5c-ae08-78f4a9e70163)
+  ![10](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-6/pic/Sam%205.png)
 
  
 ## Краткий вывод:
