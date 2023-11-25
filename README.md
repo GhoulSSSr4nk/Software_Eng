@@ -29,7 +29,7 @@ class Car:
 my_car = Car("Toyota","Corolla")
 ```
   ### Результат
-  ![1](https://github.com/Mikhail867/Software_Engineering/assets/144737787/1b5009e5-2df2-44e1-a16c-68b68d18fcc0)
+  ![1](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Lab%201.png)
 
  
 ## Краткий вывод:
@@ -53,7 +53,7 @@ my_car = Car("Toyota","Corolla")
 my_car.drive()
 ```
   ### Результат
-  ![2](https://github.com/Mikhail867/Software_Engineering/assets/144737787/2198a38b-bf9c-460d-b0b2-86622d12515b)
+  ![2](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/lab%202.png)
 
  
 ## Краткий вывод:
@@ -105,7 +105,7 @@ my_electric_car.charge()
 
 ```
   ### Результат
-  ![3](https://github.com/Mikhail867/Software_Engineering/assets/144737787/f3476747-1c4c-4119-98ea-0c4adf0194bf)
+  ![3](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Lab%203.png)
 
  
 ## Краткий вывод:
@@ -143,7 +143,7 @@ my_car.drive()
 
 ```
   ### Результат
-  ![4](https://github.com/Mikhail867/Software_Engineering/assets/144737787/2b7309c2-6993-419d-879c-7a4eeb6bcf62)
+  ![4](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Lab%204.png)
 
  
 ## Краткий вывод:
@@ -197,7 +197,7 @@ print("Circle Area:", circle.area())
 
 ```
   ### Результат
-  ![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/476b35f1-8768-42ca-87f2-401231cb572f)
+  ![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Lab%205.png)
 
  
 ## Краткий вывод:
@@ -229,7 +229,7 @@ lion = Animal("Lion", "roar")
 lion.make_sound()
 ```
   ### Результат
-  ![6](https://github.com/Mikhail867/Software_Engineering/assets/144737787/1bbde53d-c4a1-4979-a47c-66d2ee1c608c)
+  ![6](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Sum%201.png)
 
  
 ## Краткий вывод:
@@ -264,7 +264,7 @@ lion.make_sound()
 lion.introduce()
 ```
   ### Результат
-  ![7](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b71412f6-6c14-4a27-960f-6a842a656da9)
+  ![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Sum%202.png)
 
  
 ## Краткий вывод:
@@ -292,7 +292,7 @@ wild_lion.introduce()
 wild_lion.describe_habitat()
 ```
   ### Результат
-  ![8](https://github.com/Mikhail867/Software_Engineering/assets/144737787/75241e65-7d57-406d-81cc-08aea51cb3aa)
+  ![8](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Sum%203.png)
 
  
 ## Краткий вывод:
@@ -344,7 +344,7 @@ lion.make_sound()
 lion.introduce()
 ```
   ### Результат
-  ![9](https://github.com/Mikhail867/Software_Engineering/assets/144737787/aee4f54c-62b2-4ef8-8a4d-53dda4787c5c)
+  ![9](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Sum%204.png)
 
  
 ## Краткий вывод:
@@ -380,7 +380,7 @@ my_dog.make_sound()
 my_cat.make_sound()
 ```
   ### Результат
-  ![10](https://github.com/Mikhail867/Software_Engineering/assets/144737787/285ef2a8-8bfa-404d-90e8-5ccb52cfc492)
+  ![10](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-8/pic/Sum%205.png)
   ## Краткий вывод:
   В этом примере мы создали базовый класс Pet, который содержит метод make_sound, а затем определили два подкласса: Dog и Cat, которые наследуют от Pet и переопределяют метод make_sound для представления звука собаки и кошки соответственно.
   # Общий вывод:
