@@ -39,7 +39,7 @@ person2.surname = "Петров"
 
 ```
   ### Результат
-  ![1](https://github.com/Mikhail867/Software_Engineering/assets/144737787/590383c3-8f58-45ca-b812-1610101d74df)
+  ![1](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-9/pic/Lab%201.png)
 
  
 ## Краткий вывод:
@@ -75,7 +75,7 @@ icecream.composition()
 icecream= Icecream(5)
 ```
   ### Результат
-  ![2](https://github.com/Mikhail867/Software_Engineering/assets/144737787/a6f70369-9e6f-4c6f-a6ca-c7a72bd2f0f3)
+  ![2](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-9/pic/lab%202.png)
 
  
 ## Краткий вывод:
@@ -107,7 +107,7 @@ obj.set_value()
 print(obj.del_value())
 ```
   ### Результат
-  ![3](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b921a37c-9a1d-4347-8b40-380f327d40af)
+  ![3](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-9/pic/lab%203.png)
 
  
 ## Краткий вывод:
@@ -136,7 +136,7 @@ cat= Cat()
 print(f"Cat is {cat.className}, but they say {cat.sounds}")
 ```
   ### Результат
-  ![4](https://github.com/Mikhail867/Software_Engineering/assets/144737787/07e454b8-1355-4b23-8f31-a272aa1c9653)
+  ![4](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-9/pic/lab%204.png)
 
  
 ## Краткий вывод:
@@ -168,7 +168,7 @@ john=English()
 greet(john)
 ```
   ### Результат
-          ![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/3cef1264-3bb2-494b-b472-143044f52bc9)
+  ![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-9/pic/lab%205.png)
 
  
 ## Краткий вывод:
@@ -267,7 +267,7 @@ gardener.harvest()
 
 ```
   ### Результат
-  ![6](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b120b1ee-4aa7-48ab-9d43-f118467a83b7)
+  ![6](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-9/pic/Sam%201.png)
 
  
 ## Краткий вывод:
