@@ -36,7 +36,7 @@ if __name__== '__main__':
 
 ```
   ### Результат
-  ![1](https://github.com/Mikhail867/Software_Engineering/assets/144737787/ccff962f-79e3-4cd6-a8e4-474c00c197f8)
+  ![1](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Lab%201.png)
 
  
 ## Краткий вывод:
@@ -85,7 +85,7 @@ if __name__ =='__main__':
     personal_info('Петр',138,15,48,2)
 ```
   ### Результат
-  ![2](https://github.com/Mikhail867/Software_Engineering/assets/144737787/88b804f5-3901-4335-9207-99ad2730f789)
+  ![2](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/lab%202.png)
 
  
 ## Краткий вывод:
@@ -133,7 +133,7 @@ if __name__== '__main__':
 
 ```
   ### Результат
-  ![3](https://github.com/Mikhail867/Software_Engineering/assets/144737787/28801682-0ebb-4901-aa76-87af9c773e96)
+  ![3](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Lab%203.png)
 
  
 ## Краткий вывод:
@@ -161,7 +161,7 @@ if __name__ == '__main__':
     check_name(name)
 ```
   ### Результат
-  ![4](https://github.com/Mikhail867/Software_Engineering/assets/144737787/d1cdf08f-08ed-412a-a7ff-3a4e6d858a53)
+  ![4](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Lab%204.png)
 
  
 ## Краткий вывод:
@@ -200,7 +200,7 @@ if __name__ == '__main__':
     print('>> Сайт выключен')
 ```
   ### Результат
-  ![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/302c1c7c-c511-436a-a48a-61aba3c363b3)
+  ![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Lab%205.png)
 
  
 ## Краткий вывод:
@@ -252,7 +252,7 @@ if __name__ == '__main__':
     print(f"Результат вычисления Фибоначчи: {result}")
 ```
   ### Результат
-  ![6](https://github.com/Mikhail867/Software_Engineering/assets/144737787/ed6958b2-0d73-4cbe-8a7c-b2f88235fe19)
+  ![6](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Sum%201.png)
 
  
 ## Краткий вывод:
@@ -301,28 +301,28 @@ except Exception as non_empty_exception:
 
 ```
   ### Результат
-  ![7](https://github.com/Mikhail867/Software_Engineering/assets/144737787/17631f55-5eb4-4e54-bc3d-37741f03dc6b)
+  ![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Sum%202.png)
 
  
 ## Краткий вывод:
-Первый блок try с файлом empty_file.txt:
+Первый блок try с файлом Emp.txt:
 
-Открывает файл empty_file.txt для чтения ('r').
+Открывает файл Emp.txt для чтения ('r').
 Считывает содержимое файла в переменную data.
 Проверяет, является ли файл пустым (if not data:).
 Если файл пустой, вызывает исключение Exception с сообщением "Файл пустой".
 В противном случае выводит информацию из файла.
-Первый блок except с переменной empty_exception:
+Первый блок except с переменной Emp_exception:
 
 Если произошло исключение в первом блоке try, выводит сообщение об ошибке, указывающее на то, что файл пустой.
-Второй блок try с файлом non_empty_file.txt:
+Второй блок try с файлом Full.txt:
 
-Открывает файл non_empty_file.txt для чтения ('r').
+Открывает файл Full.txt для чтения ('r').
 Считывает содержимое файла в переменную data.
 Проверяет, является ли файл пустым (if not data:).
 Если файл пустой, вызывает исключение Exception с сообщением "Файл пустой".
 В противном случае выводит информацию из файла.
-Второй блок except с переменной non_empty_exception:
+Второй блок except с переменной Full_exception:
 
 Если произошло исключение во втором блоке try, выводит сообщение об ошибке, указывающее на то, что файл пустой.
   ## Самотоятельная работа 3
@@ -343,7 +343,7 @@ if __name__ == "__main__":
 
 ```
   ### Результат
-  ![8](https://github.com/Mikhail867/Software_Engineering/assets/144737787/8f40cafb-909e-4853-9335-12fe150d1177)
+  ![8](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Sum%203.png)
 
  
 ## Краткий вывод:
@@ -387,7 +387,7 @@ if __name__ == "__main__":
     multiply_result = multiply_numbers(4, 6)
 ```
   ### Результат
-  ![9](https://github.com/Mikhail867/Software_Engineering/assets/144737787/ccd4d8e2-ac67-44b2-a12c-8690abe389ae)
+  ![9](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Sum%204.png)
 
  
 ## Краткий вывод:
@@ -395,10 +395,10 @@ if __name__ == "__main__":
 
 Принимает функцию func в конструкторе.
 В методе __call__ вызывает функцию, измеряет время выполнения и выводит информацию.
-Декорированные функции add_numbers и multiply_numbers:
+Декорированные функции squered_numbers и triple_numbers:
 
 При объявлении функций используется декоратор @TimingDecorator.
-Это эквивалент вызова add_numbers = TimingDecorator(add_numbers) и multiply_numbers = TimingDecorator(multiply_numbers).
+Это эквивалент вызова squered_numbers = TimingDecorator(squered_numbers) и triple_numberss = TimingDecorator(triple_numbers).
 Блок if __name__ == "__main__":
 
 Вызывает декорированные функции, их выполнение будет сопровождаться выводом времени выполнения и результатов
@@ -433,7 +433,7 @@ if __name__ == "__main__":
         print(f"Ошибка 2: {e2.message}")
 ```
   ### Результат
-  ![10](https://github.com/Mikhail867/Software_Engineering/assets/144737787/e74d1531-8a33-48ee-9171-b78b6c00d656)
+  ![10](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Sum%205.png)
 
 ## Краткий вывод:
  Класс DataNotFoundException:
