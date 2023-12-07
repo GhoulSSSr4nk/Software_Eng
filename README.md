@@ -26,7 +26,7 @@ for item in numbers:
     print(item)
 ```
   ### Результат
-  ![1](https://github.com/Mikhail867/Software_Engineering/assets/144737787/cedc437a-dbb3-45ac-9879-b499c76f1ec6)
+  ![1](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-11/pic/Lab%201.png)
 
  
 ## Краткий вывод:
@@ -55,7 +55,7 @@ if __name__ =='__main__':
 
 ```
   ### Результат
-  ![2](https://github.com/Mikhail867/Software_Engineering/assets/144737787/0247b966-7419-4ea7-b89e-12182b913311)
+  ![2](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-11/pic/lab%202.png)
 
  
 ## Краткий вывод:
@@ -83,7 +83,7 @@ for i in a:
     print(i)
 ```
   ### Результат
-  ![3](https://github.com/Mikhail867/Software_Engineering/assets/144737787/f6f99ed1-261b-4e28-92f0-f838ed805edb)
+  ![3](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-11/pic/Lab%203.png)
 
  
 ## Краткий вывод:
@@ -114,7 +114,7 @@ for i in b:
 
 ```
   ### Результат
-  ![4](https://github.com/Mikhail867/Software_Engineering/assets/144737787/82be014a-85d8-49ec-9df1-7b2fc6d248c8)
+  ![4](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-11/pic/Lab%204.png)
 
  
 ## Краткий вывод:
@@ -147,7 +147,7 @@ if __name__ == '__main__':
         
 ```
   ### Результат
-  ![5](https://github.com/Mikhail867/Software_Engineering/assets/144737787/91715e5c-ceaa-42b1-872f-d49d4ee20caa)
+  ![5](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-11/pic/Lab%205.png)
 
  
 ## Краткий вывод:
@@ -181,13 +181,12 @@ def fib(n):
         yield a
         a, b = b, a + b
 
-# Пример использования для вывода первых 200 чисел Фибоначчи
 if __name__ == '__main__':
-    fibonacci_sequence = list(fib(200))
-    print(fibonacci_sequence)
+    fibonacci = list(fib(200))
+    print(fibonacci)
 ```
   ### Результат
-  ![6](https://github.com/Mikhail867/Software_Engineering/assets/144737787/d641bb94-6d71-41c5-bb61-d13bf949b3fb)
+  ![6](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-11/pic/Sum%201.png)
 
  
 ## Краткий вывод:
@@ -197,22 +196,21 @@ if __name__ == '__main__':
 
   ```python
 def fib(n):
-    a, b = 1, 1
-    with open("fib.txt", "w") as file:
-        for _ in range(n):
-            file.write(str(a) + '\n')
-            yield a
-            a, b = b, a + b
-
+  a, b = 1, 1
+  with open ("Fib.txt", "w") as file:
+    for _ in range(n):
+      file.write(str(a)+'\n')
+      yield a
+      a, b = b, a + b
 
 if __name__ == '__main__':
-    fibonacci_sequence = list(fib(200))
-    print(fibonacci_sequence)
+  fibonacci = list(fib(200))
+  print(fibonacci)
 
 ```
   ### Результат
-  ![7](https://github.com/Mikhail867/Software_Engineering/assets/144737787/b9b122a1-eb88-4318-a2a1-88548f31e950)
-![8](https://github.com/Mikhail867/Software_Engineering/assets/144737787/62850f0a-4b96-4d70-af20-6e6becedd7df)
+  ![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-11/pic/Sum%202.png)
+![8](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-11/pic/Sum_2.png)
 
  
 ## Краткий вывод:
