@@ -301,7 +301,7 @@ except Exception as non_empty_exception:
 
 ```
   ### Результат
-  ![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Sum%202.png)
+  ![7](https://github.com/GhoulSSSr4nk/Software_Eng/blob/Тема-10/pic/Sum_2.png)
 
  
 ## Краткий вывод:
